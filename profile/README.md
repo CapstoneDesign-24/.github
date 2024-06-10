@@ -1,6 +1,7 @@
 # Capstone Design - WeatherBomb
 ### 한국외국어대학교 글로벌 캠퍼스 24년도 종합설계 프로젝트, "GQ"
 > **주제** : 위치별 기온, 습도에 따른 병해충 예보 및 예방 웹 앱 서비스
+> 
 > **배포 서버** : https://hufs-gq.vercel.app/
 > <details><summary>날씨 API CORS</summary>https://cors-anywhere.herokuapp.com/corsdemo</details>
 
